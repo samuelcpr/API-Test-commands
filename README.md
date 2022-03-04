@@ -1,7 +1,7 @@
 # API-js_Teste
 
 ## Iniciando Projeto 
-  <npm init>
+  // npm init
 
 Nome da API: Node
 
@@ -20,4 +20,4 @@ Descrição: Primeira API
 
 # Instalação de Framework
 
-<npm install express body-parser morgan cors nodemon >
+// npm install express body-parser morgan cors nodemon 
