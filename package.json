@@ -1,14 +1,10 @@
 {
     "name": "node",
     "version": "1.0.0",
-    "description": "Primeira API",
+    "description": "Primeiro API",
     "main": "index.js",
     "scripts": {
         "start": "nodemon index.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "gh repo clone samuelcpr/Primeira--API"
     },
     "author": "",
     "license": "ISC",
