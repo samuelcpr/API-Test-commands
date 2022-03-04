@@ -12,11 +12,11 @@ Descrição: Primeira API
  
  * FrameWorks Utilizadas
   
-  1-Express
-  2-Body-parser
-  3-Cors
-  4-Nodemon
-  5-Morgan
+  * Express
+  * Body-parser
+  * Cors
+  * Nodemon
+  * Morgan
 
 # Instalação de Framework
 
